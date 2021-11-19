@@ -400,14 +400,14 @@ let highlight = (props) => {
 // Reset the label values 
 let setLabel = (props) => {
     //label content
-    let cityName = props.target.className.baseVal.split(" ")[1]
+    let rName = props.target.className.baseVal.split(" ")[1]
     let labelVar = ""
     attributeDataArray.forEach(element => {
-        if (element[0] === cityName) labelVar = element[1][expressed]
+        if (element[0] === rName) labelVar = element[1][expressed]
     });
 
     if (labelVar == "") labelVar = "No data avaliable for the region"
-    let labelAttribute = `<h3>${expressed}</h3>:<b>${labelVar} </b>`;
+    let labelAttribute = `<h3>${rName} ${expressed}: </h3><b>${labelVar} </b>`;
 
     //create info label div
     var infolabel = d3.select("body")
