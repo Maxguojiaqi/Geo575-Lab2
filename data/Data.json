@@ -1,0 +1,139 @@
+{
+    "Barrhaven":
+    {   "population(k)" : 81.179,
+        "income(k)" : 61.350,
+        "crime/million people" : 30.162,
+        "housing(10k)" : 56.9628,
+        "employment-index" : 46.7, 
+        "median age" : 37
+    },
+        
+    "Island-Park":
+    {   "population(k)" : 14.738,
+        "income(k)" : 73.835,
+        "crime/million people" : 10.622,
+        "housing(10k)" : 82.1757,
+        "employment-index" : 65.1, 
+        "median age" : 42.2
+    },
+
+    "Stittsville":
+    {   "population(k)" : 33.643,
+        "income(k)" : 70.318,
+        "crime/million people" : 20.556,
+        "housing(10k)" : 66.0725,
+        "employment-index" : 53.3, 
+        "median age" : 40
+    },
+
+    "Stonebridge":
+    {   "population(k)" : 10.648,
+        "income(k)" : 72.859,
+        "crime/million people" : 20.242,
+        "housing(10k)" : 76.0015,
+        "employment-index" : 45.7, 
+        "median age" : 35.7
+    },
+
+    "Notting-Gate":
+    {   "population(k)" : 10.648,
+        "income(k)" : 73.112,
+        "crime/million people" : 20.675,
+        "housing(10k)" : 63.1253,
+        "employment-index" : 77.5, 
+        "median age" : 35.8
+    },
+
+    "Kanata-Lake":
+    {   "population(k)" : 17.481,
+        "income(k)" : 80.125,
+        "crime/million people" : 10.984,
+        "housing(10k)" : 76.5872,
+        "employment-index" : 65.2, 
+        "median age" : 42.2
+    },
+
+    "Civic-Hospital":
+    {   "population(k)" : 16.068,
+        "income(k)" : 63.763,
+        "crime/million people" : 20.163,
+        "housing(10k)" : 77.4583,
+        "employment-index" : 52.6, 
+        "median age" : 40.9
+    },
+
+    "Davidson-Heights":
+    {   "population(k)" : 17.488,
+        "income(k)" : 69.315,
+        "crime/million people" : 30.009,
+        "housing(10k)" : 53.1216,
+        "employment-index" : 43.2, 
+        "median age" : 40
+    },
+
+    "Longfields":
+    {   "population(k)" : 23.237,
+        "income(k)" : 60.441,
+        "crime/million people" : 30.147,
+        "housing(10k)" : 57.5342,
+        "employment-index" : 21.1, 
+        "median age" : 36
+    },
+
+    "Chaperal":
+    {   "population(k)" : 13.790,
+        "income(k)" : 57.871,
+        "crime/million people" : 30.322,
+        "housing(10k)" : 57.9773,
+        "employment-index" : 87.2, 
+        "median age" : 34.5
+    },
+
+    "Heritage-Hills":
+    {   "population(k)" : 13.453,
+        "income(k)" : 81.791,
+        "crime/million people" : 10.846,
+        "housing(10k)" : 75.5843,
+        "employment-index" : 35.1, 
+        "median age" : 35.6
+    },
+
+    "Fairwinds":
+    {   "population(k)" : 14.036,
+        "income(k)" : 59.321,
+        "crime/million people" : 20.956,
+        "housing(10k)" : 58.1012,
+        "employment-index" : 66.3, 
+        "median age" : 34.9
+    },
+
+    "BeaverBrooks":
+    {   "population(k)" : 15.537,
+        "income(k)" : 53.362,
+        "crime/million people" : 30.411,
+        "housing(10k)" : 61.7359,
+        "employment-index" : 43.2, 
+        "median age" : 45.3
+    },
+
+    "Huntclub-woods":
+    {   "population(k)" : 12.411,
+        "income(k)" : 63.173,
+        "crime/million people" : 20.843,
+        "housing(10k)" : 60.3101,
+        "employment-index" : 32.5, 
+        "median age" : 46
+    },
+
+    "Morgans-Grant":
+    {   "population(k)" : 10.608,
+        "income(k)" : 69.701,
+        "crime/million people" : 20.779,
+        "housing(10k)" : 58.9868,
+        "employment-index" : 63.6, 
+        "median age" : 35.7
+    }
+
+
+
+}
